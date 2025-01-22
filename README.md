@@ -15,4 +15,4 @@ A **Movie Recommender** system that suggests movies based on user preferences. T
 - **Pandas and NumPy**: For data manipulation and analysis.
 - **Scikit-Learn**: For implementing recommendation algorithms.
 - **Flask**: For creating the web application.
-- **HTML, CSS, JavaScript**: For the frontend interface.
+- **Streamlit**: For the frontend interface.
